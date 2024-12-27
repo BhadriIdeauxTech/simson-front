@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98ec47ca.css",
+    "main.js": "/static/js/main.ab453ae1.js",
+    "static/media/Instagram_Back.png": "/static/media/Instagram_Back.b8e4f7f389b1b8b54ca5.png",
+    "static/media/Contactus_Boy.png": "/static/media/Contactus_Boy.6b68abdbde982da9a324.png",
+    "static/media/home3-banner1.jpg.png": "/static/media/home3-banner1.jpg.2d579963b8ed7d4d0441.png",
+    "static/media/home3-banner4.jpg.png": "/static/media/home3-banner4.jpg.f2a490710fb621268a78.png",
+    "static/media/home3-banner3.jpg.png": "/static/media/home3-banner3.jpg.e06867ac860654b58a20.png",
+    "static/media/home3-banner2.jpg.png": "/static/media/home3-banner2.jpg.452962cf3ffd2c647cc7.png",
+    "static/media/pageNotFound.png": "/static/media/pageNotFound.cce7bad69103fbeaf363.png",
+    "static/media/login-bg.avif": "/static/media/login-bg.c61286d7ebe3f1545f67.avif",
+    "static/media/simson.svg": "/static/media/simson.f302c43674e583dba65a0eb5f915fbe6.svg",
+    "static/media/Fish.svg": "/static/media/Fish.ad00f6387175f538bb41d561f6df8de4.svg",
+    "index.html": "/index.html",
+    "main.98ec47ca.css.map": "/static/css/main.98ec47ca.css.map",
+    "main.ab453ae1.js.map": "/static/js/main.ab453ae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ec47ca.css",
+    "static/js/main.ab453ae1.js"
+  ]
+}
